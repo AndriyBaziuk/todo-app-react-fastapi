@@ -1,0 +1,21 @@
+
+.app {
+  width: 100%;
+  text-align: center;
+  border: 2px solid blue;
+}
+.appWrapper {
+  width: 200px;
+  text-align: center;
+}
+.taskWrapper {
+  display: flex;
+  border: 2px solid red;
+}
+.taskTitle {
+  margin-left: 10px;
+}
+
+.close {
+  margin-left: auto;
+}
